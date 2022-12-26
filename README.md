@@ -1,8 +1,6 @@
 <img align="right" width="300em" src="https://raw.githubusercontent.com/gist/JoaoMiranda-88237-UM/144d4fd40a136934b4171142cd722203/raw/84952138defba258f1a9659534532ee428bfbe89/githubcard.svg"/>
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm João Miranda</h1>
-<!-- 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p> 
--->
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, 
+   I'm João Miranda</h1>
 
 - 🔥 Student of Industrial Engineering and Computers in **Power Electronics** and **Embedded Systems at University of Minho**
 
