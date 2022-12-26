@@ -2,7 +2,7 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, 
    I'm João Miranda</h1>
 
-- 🔥 Student of Industrial Engineering and Computers in **Power Electronics** and **Embedded Systems at University of Minho**
+- 🔥 Student of Industrial Engineering and Computers in **Power Electronics** and **Embedded Systems** at University of Minho
 
 - 🔭 I’m currently working at 
 
