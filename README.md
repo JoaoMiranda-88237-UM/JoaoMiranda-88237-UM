@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/JoaoMiranda-88237-UM/434c706526e7c6646de9c3400513fe92/raw/8006e90561137107e36b62c8e211f90c90dcce0d/githubcard.svg"/>
+<img align="right" height="370em" src="https://raw.githubusercontent.com/gist/JoaoMiranda-88237-UM/144d4fd40a136934b4171142cd722203/raw/84952138defba258f1a9659534532ee428bfbe89/githubcard.svg"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm João Miranda</h1>
 <!-- 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito&color=yellow" alt="Profile views" /> </p> 
@@ -12,7 +12,7 @@
    - ⌨️ Programming languages: **Assembly, C, C++, Verilog**
    - 🔧 Tools: **Git, Matlab, PSIM, Multisim**
 
-- ⚡ Fun fact: **I'm a huge fan of ⚽ Messi, 🏎️ Hamilton, 🎱 Rocket, 🚲 Contador**
+- ⚡ Fun fact: **I'm a huge fan of ⚽ Messi, 🏎️ Hamilton, 🎱 Rocket and 🚲 A.Contador**
 
 ## ⚙️ &nbsp;GitHub Analytics
 
