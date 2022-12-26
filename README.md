@@ -16,11 +16,10 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-<a href="">
-  <img align="centre" src="https://github-readme-stats.vercel.app/api?username=JoaoMiranda-88237-UM&count_private=true&include_all_commits=true&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28" />
-<a />
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoMiranda-88237-UM&count_private=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
+<p align="left">
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=JoaoMiranda-88237-UM&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoMiranda-88237-UM&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
+</p>
 
 ## 📱 Contacts
 
