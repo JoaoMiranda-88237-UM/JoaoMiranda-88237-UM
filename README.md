@@ -4,7 +4,7 @@
 
 - 🔥 Student of Industrial Engineering and Computers in **Power Electronics** and **Embedded Systems** at University of Minho
 
-- 🔭 I’m currently working at 
+- 🔭 I’m currently working at https://github.com/FSUMinho
 
 - 💬 Ask me about:
    - ⌨️ Programming languages: **Assembly, C, C++, Verilog**
